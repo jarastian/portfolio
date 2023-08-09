@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis on Sebastian Jaramillo</title>
+    <link>https://jarastian.github.io/portfolio/series/analysis/</link>
+    <description>Recent content in Analysis on Sebastian Jaramillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jarastian.github.io/portfolio/series/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis de cancelación de reservas de hotel</title>
+      <link>https://jarastian.github.io/portfolio/projects/booking_cacellation_analisys/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/booking_cacellation_analisys/</guid>
+      <description>Scenario Link to heading Una cadena de hoteles de renombre, ha observado una alta tasa de cancelación de reservas, lo que ha generado preocupación en la dirección. Con el objetivo de mejorar la eficiencia operativa y la experiencia del cliente, se plantea la siguiente tarea empresarial.
+Tarea Empresarial Link to heading Identificar los principales factores que influyen en la tasa de cancelación de las reservas de hotel y utilizar esta información para generar recomendaciones para optimizar los procesos y brinden una experiencia única al cliente en el marco de la transformación digital.</description>
+    </item>
+    
+  </channel>
+</rss>

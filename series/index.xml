@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Sebastian Jaramillo</title>
+    <link>https://jarastian.github.io/portfolio/series/</link>
+    <description>Recent content in Series on Sebastian Jaramillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jarastian.github.io/portfolio/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis</title>
+      <link>https://jarastian.github.io/portfolio/series/analysis/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/series/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://jarastian.github.io/portfolio/series/data/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/series/data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

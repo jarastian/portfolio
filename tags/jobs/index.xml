@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jobs on Sebastian Jaramillo</title>
+    <link>https://jarastian.github.io/portfolio/tags/jobs/</link>
+    <description>Recent content in jobs on Sebastian Jaramillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jarastian.github.io/portfolio/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando la Transformación Laboral: Automatización de Ocupaciones en Estados Unidos</title>
+      <link>https://jarastian.github.io/portfolio/projects/automated_jobs_usa/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/automated_jobs_usa/</guid>
+      <description>En este estudio de caso una organización sin fines de lucro asume la misión de enfrentar los desafíos del empleo en la sociedad moderna, busca entender cómo los avances tecnológicos están impactando el desempleo en los Estados Unidos. Pero no se queda solo en la observación, sino que se esfuerza por forjar estrategias que contrarresten los efectos negativos de este cambio.
+Las preguntas que se plantean para este análisis son:</description>
+    </item>
+    
+  </channel>
+</rss>

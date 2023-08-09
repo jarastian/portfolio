@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KKJXGBWZ3G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KKJXGBWZ3G');
+</script>
+  <title>
+  Análisis del Uso Compartido de Bicicletas en Chicago, USA: Estudio de Caso de la Empresa Cyclistic · Sebastian Jaramillo
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Sebastian Jaramillo">
+<meta name="description" content="Caso Practico: Análisis del uso compartido de bicicletas ( Google Data Analytics professional Certificate)">
+<meta name="keywords" content="blog,data analyst,personal, analista de datos, digital transformation, jarastian">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Análisis del Uso Compartido de Bicicletas en Chicago, USA: Estudio de Caso de la Empresa Cyclistic"/>
+<meta name="twitter:description" content="Caso Practico: Análisis del uso compartido de bicicletas ( Google Data Analytics professional Certificate)"/>
+
+<meta property="og:title" content="Análisis del Uso Compartido de Bicicletas en Chicago, USA: Estudio de Caso de la Empresa Cyclistic" />
+<meta property="og:description" content="Caso Practico: Análisis del uso compartido de bicicletas ( Google Data Analytics professional Certificate)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2023-08-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-08-03T00:00:00+00:00" />
+
+
+
+
+
+<link rel="canonical" href="https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/">
+
+
+<link rel="preload" href="https://jarastian.github.io/portfolio/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="https://jarastian.github.io/portfolio/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" integrity="sha256-WtvnL8Qdz7hSIVuEaVKIk5trYG23Mji9Puk2RpVy/Jw=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="https://jarastian.github.io/portfolio/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="https://jarastian.github.io/portfolio/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="https://jarastian.github.io/portfolio/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://jarastian.github.io/portfolio/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="https://jarastian.github.io/portfolio/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://jarastian.github.io/portfolio/images/apple-touch-icon.png">
+
+<link rel="manifest" href="https://jarastian.github.io/portfolio/site.webmanifest">
+<link rel="mask-icon" href="https://jarastian.github.io/portfolio/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://jarastian.github.io/portfolio/">
+      Sebastian Jaramillo
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://jarastian.github.io/portfolio/about/">Sobre mi</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://jarastian.github.io/portfolio/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://jarastian.github.io/portfolio/projects/">Portafolio</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://jarastian.github.io/portfolio/contact/">Contacto</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/">
+          Análisis del Uso Compartido de Bicicletas en Chicago, USA: Estudio de Caso de la Empresa Cyclistic
+        </a>
+      </h1>
+    </header>
+
+    <hr>
+<p><em>Caso Practico: Análisis del uso compartido de bicicletas ( Google Data Analytics professional Certificate)</em></p>
+<p>En este estudio de caso, exploro el mundo de Cyclistic, una empresa de bicicletas compartidas con base en Chicago. El departamento de marketing está enfocado en un desafío intrigante: transformar a los ciclistas ocasionales en miembros anuales, ya que un análisis financiero previo demostró la mayor rentabilidad de estos últimos. Aquí es donde entra en juego el análisis de datos.</p>
+<p>La cuestión fundamental que guía todo este análisis empresarial es bastante simple, pero de gran alcance:</p>
+<div class="notice question">
+  <div class="notice-title">
+    <i class="fa fa-question" aria-hidden="true"></i>Question
+  </div>
+  <div class="notice-content">¿Cómo puede Cyclistic convertir a esos ciclistas que usan las bicicletas de vez en cuando en miembros comprometidos durante todo el año?</div>
+</div>
+
+<p>El objetivo es maximizar la cantidad de membresías anuales para garantizar el éxito sostenible de la empresa en el competitivo mundo de las bicicletas compartidas en Chicago.</p>
+<p>Todo este proceso se desarrolla en <strong>RStudio</strong>, una plataforma que se convierte en el epicentro de las actividades. Desde importar y explorar diversos conjuntos de datos hasta procesar información y descubrir patrones, RStudio es la herramienta central. Además, nos brinda la capacidad de crear visualizaciones que aportan profundidad a la comprensión de los datos.</p>
+<p>En una presentación completa, comparto estrategias para transformar a los ciclistas casuales en miembros leales. Pueden explorar todo el proyecto en GitHub. En este análisis, revelo cómo los datos pueden impulsar decisiones estratégicas de negocios.</p>
+<h3 id="análisis-del-proyecto-completo">
+  Análisis del Proyecto Completo
+  <a class="heading-link" href="#an%c3%a1lisis-del-proyecto-completo">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p><em><a href="https://github.com/jarastian/Data-Analytics-Capstone-Bike-Share-Cyclistic"  class="external-link" target="_blank" rel="noopener">Ver el estudio de caso completo</a></em></p>
+
+  </article>
+</section>
+
+  
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2023
+     Sebastian Jaramillo 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="https://jarastian.github.io/portfolio/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Jaramillo</title>
+    <link>https://jarastian.github.io/portfolio/</link>
+    <description>Recent content on Sebastian Jaramillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jarastian.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando la Transformación Laboral: Automatización de Ocupaciones en Estados Unidos</title>
+      <link>https://jarastian.github.io/portfolio/projects/automated_jobs_usa/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/automated_jobs_usa/</guid>
+      <description>En este estudio de caso una organización sin fines de lucro asume la misión de enfrentar los desafíos del empleo en la sociedad moderna, busca entender cómo los avances tecnológicos están impactando el desempleo en los Estados Unidos. Pero no se queda solo en la observación, sino que se esfuerza por forjar estrategias que contrarresten los efectos negativos de este cambio.
+Las preguntas que se plantean para este análisis son:</description>
+    </item>
+    
+    <item>
+      <title>Análisis del Uso Compartido de Bicicletas en Chicago, USA: Estudio de Caso de la Empresa Cyclistic</title>
+      <link>https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/</guid>
+      <description>Caso Practico: Análisis del uso compartido de bicicletas ( Google Data Analytics professional Certificate)
+En este estudio de caso, exploro el mundo de Cyclistic, una empresa de bicicletas compartidas con base en Chicago. El departamento de marketing está enfocado en un desafío intrigante: transformar a los ciclistas ocasionales en miembros anuales, ya que un análisis financiero previo demostró la mayor rentabilidad de estos últimos. Aquí es donde entra en juego el análisis de datos.</description>
+    </item>
+    
+    <item>
+      <title>Acelerando la Transformación Digital a través del Poder del Análisis de Datos</title>
+      <link>https://jarastian.github.io/portfolio/posts/transformacion-digital-a-traves-del-analisis-de-datos/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/posts/transformacion-digital-a-traves-del-analisis-de-datos/</guid>
+      <description>En la era de la información y la tecnología, dos términos resuenan: análisis de datos y transformación digital. Estamos en medio de una revolución en la que los datos son la moneda y la transformación digital es el vehículo. Pero, ¿cómo se entrelazan estos dos conceptos y por qué son esenciales para el éxito en un mundo en constante cambio?
+Datos: El Oro Oculto de Nuestra Era Link to heading Imagina que estás parado en la orilla de un océano vasto y profundo.</description>
+    </item>
+    
+    <item>
+      <title>Análisis de cancelación de reservas de hotel</title>
+      <link>https://jarastian.github.io/portfolio/projects/booking_cacellation_analisys/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/booking_cacellation_analisys/</guid>
+      <description>Scenario Link to heading Una cadena de hoteles de renombre, ha observado una alta tasa de cancelación de reservas, lo que ha generado preocupación en la dirección. Con el objetivo de mejorar la eficiencia operativa y la experiencia del cliente, se plantea la siguiente tarea empresarial.
+Tarea Empresarial Link to heading Identificar los principales factores que influyen en la tasa de cancelación de las reservas de hotel y utilizar esta información para generar recomendaciones para optimizar los procesos y brinden una experiencia única al cliente en el marco de la transformación digital.</description>
+    </item>
+    
+    <item>
+      <title>Hola !</title>
+      <link>https://jarastian.github.io/portfolio/about/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/about/</guid>
+      <description>Soy Sebastian Jaramillo, Ingeniero con entusiasmo por el análisis de datos y la Transformación Digital.
+Esta simbiosis entre ambas disciplinas me condujo a realizar una transición desde mi formación como Ingeniero Mecánico para convertirme en un Analista de Datos con un enfoque hacia la transformación digital. Mi dedicación al aprendizaje continuo y la realización de proyectos a lo largo de mi recorrido en cursos profesionales y en mi programa de maestría actual, me han proporcionado la preparación adecuada para abrazar este nuevo rol.</description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>https://jarastian.github.io/portfolio/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>https://jarastian.github.io/portfolio/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://jarastian.github.io/portfolio/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jarastian.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/contact/</guid>
+      <description> Podemos ponernos en contacto a través de Linkedin Link to heading </description>
+    </item>
+    
+  </channel>
+</rss>

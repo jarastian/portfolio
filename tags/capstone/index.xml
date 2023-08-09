@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>capstone on Sebastian Jaramillo</title>
+    <link>https://jarastian.github.io/portfolio/tags/capstone/</link>
+    <description>Recent content in capstone on Sebastian Jaramillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jarastian.github.io/portfolio/tags/capstone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando la Transformación Laboral: Automatización de Ocupaciones en Estados Unidos</title>
+      <link>https://jarastian.github.io/portfolio/projects/automated_jobs_usa/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/automated_jobs_usa/</guid>
+      <description>En este estudio de caso una organización sin fines de lucro asume la misión de enfrentar los desafíos del empleo en la sociedad moderna, busca entender cómo los avances tecnológicos están impactando el desempleo en los Estados Unidos. Pero no se queda solo en la observación, sino que se esfuerza por forjar estrategias que contrarresten los efectos negativos de este cambio.
+Las preguntas que se plantean para este análisis son:</description>
+    </item>
+    
+    <item>
+      <title>Análisis del Uso Compartido de Bicicletas en Chicago, USA: Estudio de Caso de la Empresa Cyclistic</title>
+      <link>https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarastian.github.io/portfolio/projects/data-analysis-share-bike/</guid>
+      <description>Caso Practico: Análisis del uso compartido de bicicletas ( Google Data Analytics professional Certificate)
+En este estudio de caso, exploro el mundo de Cyclistic, una empresa de bicicletas compartidas con base en Chicago. El departamento de marketing está enfocado en un desafío intrigante: transformar a los ciclistas ocasionales en miembros anuales, ya que un análisis financiero previo demostró la mayor rentabilidad de estos últimos. Aquí es donde entra en juego el análisis de datos.</description>
+    </item>
+    
+  </channel>
+</rss>
